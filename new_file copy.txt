@@ -1,16 +1,1 @@
-lalalasssrrr
-<<<<<<< HEAD
-
-fafafafaf
-
-
-adsasds
-rararararar
-=======
-TST
-TST
-TST
-TST
-TST
-TST
->>>>>>> 8d82b34f3cd81e10b7cbe097825a7943ade6d9eb
+fff
